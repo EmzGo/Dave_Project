@@ -1,0 +1,91 @@
+@font-face {
+    font-family: 'Billion Dreams';
+    src: url('BillionDreams.eot');
+    src: url('BillionDreams.eot?#iefix') format('embedded-opentype'),
+        url('BillionDreams.woff2') format('woff2'),
+        url('BillionDreams.woff') format('woff'),
+        url('BillionDreams.ttf') format('truetype'),
+        url('BillionDreams.svg#BillionDreams') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rockwell';
+    src: url('Rockwell-Bold.eot');
+    src: url('Rockwell-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Rockwell-Bold.woff2') format('woff2'),
+        url('Rockwell-Bold.woff') format('woff'),
+        url('Rockwell-Bold.ttf') format('truetype'),
+        url('Rockwell-Bold.svg#Rockwell-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Billion Dreams';
+    src: url('BillionDreams_1.eot');
+    src: url('BillionDreams_1.eot?#iefix') format('embedded-opentype'),
+        url('BillionDreams_1.woff2') format('woff2'),
+        url('BillionDreams_1.woff') format('woff'),
+        url('BillionDreams_1.ttf') format('truetype'),
+        url('BillionDreams_1.svg#BillionDreams') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rockwell';
+    src: url('Rockwell.eot');
+    src: url('Rockwell.eot?#iefix') format('embedded-opentype'),
+        url('Rockwell.woff2') format('woff2'),
+        url('Rockwell.woff') format('woff'),
+        url('Rockwell.ttf') format('truetype'),
+        url('Rockwell.svg#Rockwell') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Billion Dreams';
+    src: url('BillionDreams_2.eot');
+    src: url('BillionDreams_2.eot?#iefix') format('embedded-opentype'),
+        url('BillionDreams_2.woff2') format('woff2'),
+        url('BillionDreams_2.woff') format('woff'),
+        url('BillionDreams_2.ttf') format('truetype'),
+        url('BillionDreams_2.svg#BillionDreams') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rockwell';
+    src: url('Rockwell-Bold_1.eot');
+    src: url('Rockwell-Bold_1.eot?#iefix') format('embedded-opentype'),
+        url('Rockwell-Bold_1.woff2') format('woff2'),
+        url('Rockwell-Bold_1.woff') format('woff'),
+        url('Rockwell-Bold_1.ttf') format('truetype'),
+        url('Rockwell-Bold_1.svg#Rockwell-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rockwell';
+    src: url('Rockwell_1.eot');
+    src: url('Rockwell_1.eot?#iefix') format('embedded-opentype'),
+        url('Rockwell_1.woff2') format('woff2'),
+        url('Rockwell_1.woff') format('woff'),
+        url('Rockwell_1.ttf') format('truetype'),
+        url('Rockwell_1.svg#Rockwell') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
