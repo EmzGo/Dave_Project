@@ -39,6 +39,7 @@ class AboutUsPageContentController extends Controller
                     } else {
                         Image::make($file)->save(public_path('uploads/aboutus_page/' . $photo));
                     }
+                    
                     $item->banner    = $photo;
                 }
             }
